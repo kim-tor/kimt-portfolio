@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kimt-portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kimt-portfolio/static/js/main.d81e9592.chunk.js",
+    "main.js.map": "/kimt-portfolio/static/js/main.d81e9592.chunk.js.map",
+    "runtime-main.js": "/kimt-portfolio/static/js/runtime-main.9b8ae4f6.js",
+    "runtime-main.js.map": "/kimt-portfolio/static/js/runtime-main.9b8ae4f6.js.map",
+    "static/js/2.dbf2ed17.chunk.js": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js",
+    "static/js/2.dbf2ed17.chunk.js.map": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js.map",
+    "static/js/3.9b15abc5.chunk.js": "/kimt-portfolio/static/js/3.9b15abc5.chunk.js",
+    "static/js/3.9b15abc5.chunk.js.map": "/kimt-portfolio/static/js/3.9b15abc5.chunk.js.map",
+    "index.html": "/kimt-portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kimt-portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbf2ed17.chunk.js.LICENSE.txt": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kimt-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8ae4f6.js",
+    "static/js/2.dbf2ed17.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d81e9592.chunk.js"
+  ]
+}
