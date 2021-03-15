@@ -21,8 +21,8 @@ Kim T Portfolio :computer:
   * [License](#license)
     
   # Description
-   ```
    To view my app please click [here](https://kim-tor.github.io/kimt-portfolio/)
+  ```
    Personal portfolio created using React. This portfolio includes a few of the projects I completed while attending the Penn LPS Coding Bootcamp. 
   
 ```
@@ -33,13 +33,21 @@ Kim T Portfolio :computer:
   # Usage
   Locally ran an npm start to view the portfolio. 
   Deployed using github pages to view online.
+  ```
+  This is a work in progress. As I continue to learn and evolve as a developer I will update it. 
+  ```
 
 
   # Screenshots
-    ![main](images/main.JPG?raw=true)
+![Main](/images/main.JPG)
+
+![About](/images/about.JPG)
+
+![Projects](/images/projects.JPG)
 
   # Questions
-  If you have any **questions** feel free to email me at :[Email](kimberley.5118@gmail.com)
+  If you have any **questions** or **suggestions** feel free to email me at :[Email](kimberley.5118@gmail.com)
+
   ## Here's a link to my GitHub:(http://github.com/kim-tor)
 
   # License
