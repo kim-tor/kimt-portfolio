@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/kimt-portfolio/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/kimt-portfolio/static/js/main.d81e9592.chunk.js",
-    "main.js.map": "/kimt-portfolio/static/js/main.d81e9592.chunk.js.map",
-    "runtime-main.js": "/kimt-portfolio/static/js/runtime-main.9b8ae4f6.js",
-    "runtime-main.js.map": "/kimt-portfolio/static/js/runtime-main.9b8ae4f6.js.map",
-    "static/js/2.dbf2ed17.chunk.js": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js",
-    "static/js/2.dbf2ed17.chunk.js.map": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js.map",
-    "static/js/3.9b15abc5.chunk.js": "/kimt-portfolio/static/js/3.9b15abc5.chunk.js",
-    "static/js/3.9b15abc5.chunk.js.map": "/kimt-portfolio/static/js/3.9b15abc5.chunk.js.map",
+    "main.css": "/kimt-portfolio/static/css/main.c8337feb.chunk.css",
+    "main.js": "/kimt-portfolio/static/js/main.a17d1fec.chunk.js",
+    "main.js.map": "/kimt-portfolio/static/js/main.a17d1fec.chunk.js.map",
+    "runtime-main.js": "/kimt-portfolio/static/js/runtime-main.9263fc91.js",
+    "runtime-main.js.map": "/kimt-portfolio/static/js/runtime-main.9263fc91.js.map",
+    "static/js/2.c0172ba6.chunk.js": "/kimt-portfolio/static/js/2.c0172ba6.chunk.js",
+    "static/js/2.c0172ba6.chunk.js.map": "/kimt-portfolio/static/js/2.c0172ba6.chunk.js.map",
     "index.html": "/kimt-portfolio/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/kimt-portfolio/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.dbf2ed17.chunk.js.LICENSE.txt": "/kimt-portfolio/static/js/2.dbf2ed17.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kimt-portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.c8337feb.chunk.css.map": "/kimt-portfolio/static/css/main.c8337feb.chunk.css.map",
+    "static/js/2.c0172ba6.chunk.js.LICENSE.txt": "/kimt-portfolio/static/js/2.c0172ba6.chunk.js.LICENSE.txt",
+    "static/media/budget.0bddf804.jpg": "/kimt-portfolio/static/media/budget.0bddf804.jpg",
+    "static/media/style.css": "/kimt-portfolio/static/media/galaxy.47e92abc.jpg",
+    "static/media/kim.682b0c99.jpg": "/kimt-portfolio/static/media/kim.682b0c99.jpg",
+    "static/media/mindlink.6f996de3.JPG": "/kimt-portfolio/static/media/mindlink.6f996de3.JPG",
+    "static/media/postmeal.f2bdeb33.png": "/kimt-portfolio/static/media/postmeal.f2bdeb33.png",
+    "static/media/workitout.dc8ac5a5.jpg": "/kimt-portfolio/static/media/workitout.dc8ac5a5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b8ae4f6.js",
-    "static/js/2.dbf2ed17.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d81e9592.chunk.js"
+    "static/js/runtime-main.9263fc91.js",
+    "static/js/2.c0172ba6.chunk.js",
+    "static/css/main.c8337feb.chunk.css",
+    "static/js/main.a17d1fec.chunk.js"
   ]
 }
