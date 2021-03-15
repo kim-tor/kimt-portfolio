@@ -43,8 +43,8 @@ nav
 }
 .profilepic
 {
-  border-radius: 50%;
-  width: 200px;
+  border-radius: 25%;
+  width: 400px;
   margin: 30px;
 }
 .typingeffect
@@ -80,6 +80,7 @@ a
 .subtopic
 {
   margin:10px 10px 30px 10px !important;
+  text-decoration: underline !important;
 }
 p{
   font-size: var(--fontsize-p);
@@ -124,6 +125,7 @@ h1,h2,h3,h4,p{
 {
   list-style-type:none;
   margin:30px;
+  font-weight: bold;
 }
 
 @media all and (max-width: 450px) {
