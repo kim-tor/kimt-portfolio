@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kimt-portfolio/static/css/main.bc2cee5c.chunk.css",
-    "main.js": "/kimt-portfolio/static/js/main.aa08cb58.chunk.js",
-    "main.js.map": "/kimt-portfolio/static/js/main.aa08cb58.chunk.js.map",
+    "main.js": "/kimt-portfolio/static/js/main.5bfb3870.chunk.js",
+    "main.js.map": "/kimt-portfolio/static/js/main.5bfb3870.chunk.js.map",
     "runtime-main.js": "/kimt-portfolio/static/js/runtime-main.9263fc91.js",
     "runtime-main.js.map": "/kimt-portfolio/static/js/runtime-main.9263fc91.js.map",
     "static/js/2.c0172ba6.chunk.js": "/kimt-portfolio/static/js/2.c0172ba6.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9263fc91.js",
     "static/js/2.c0172ba6.chunk.js",
     "static/css/main.bc2cee5c.chunk.css",
-    "static/js/main.aa08cb58.chunk.js"
+    "static/js/main.5bfb3870.chunk.js"
   ]
 }
