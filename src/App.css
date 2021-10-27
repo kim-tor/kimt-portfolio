@@ -22,18 +22,18 @@ body{
 }
 nav
 {
-  padding:60px 30px 0px 30px ;
-  flex:var(--sidebar-flex);
-  background: linear-gradient(180deg, rgb(177, 103, 238) 50%, rgb(16, 9, 105) 80%);
+   padding:60px 30px 0px 30px ;
+   flex:var(--sidebar-flex); 
+   background:black; 
 }
 .condiv
 {
   padding: 100px ;
-  background: linear-gradient(180deg, rgb(177, 103, 238) 50%, rgb(16, 9, 105) 80%);
+  background: white;
   flex:var(--condiv-flex);
 }
 
-.home
+.about
 {
   display: flex;
   justify-content: center;
@@ -47,17 +47,17 @@ nav
   width: 400px;
   margin: 30px;
 }
-.typingeffect
+/* .typingeffect
 {
   font-size: var(--typing-font);
   margin-bottom: 30px;
-}
+} */
 
 .projects{
   padding: 100px ;
   display: flex;
   flex-wrap: wrap;
-  background: linear-gradient(180deg, rgb(177, 103, 238) 50%, rgb(16, 9, 105) 80%);
+  background: white;
 }
 nav ul{
   font-size:var(--fontsize-nav) ;
@@ -81,6 +81,10 @@ a
 {
   margin:10px 10px 30px 10px !important;
   text-decoration: underline !important;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 p{
   font-size: var(--fontsize-p);
@@ -121,6 +125,10 @@ h1,h2,h3,h4,p{
 {
   font-weight: bolder;
 }
+
+.skills ul{
+  text-align:center;
+}
 .skills ul li
 {
   list-style-type:none;
@@ -144,10 +152,10 @@ h1,h2,h3,h4,p{
     background: rgb(238,103,143);
     background: linear-gradient(90deg, rgba(238,103,143,1) 50%, rgba(132,124,252,1) 80%);
   }
-  .condiv
+  /* .condiv
   {
     padding: 50px ;
-  }
+  } */
   nav ul
   {
     display: flex;

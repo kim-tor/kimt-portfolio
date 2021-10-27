@@ -5,7 +5,7 @@ import {
   Route,
 } from "react-router-dom";
 import Navbar from './components/Navbar';
-import Home from './contents/Home';
+// import Home from './contents/Home';
 import About from './contents/About';
 import Education from './contents/Education';
 import Skills from './contents/Skills';
@@ -19,10 +19,10 @@ function App() {
     <Router>
     <div className="App">
     <Navbar />
+    {/* <Route exact path="/">
+     <Home /> 
+    </Route> */}
     <Route exact path="/">
-    <Home />
-    </Route>
-    <Route path="/about">
     <About />
     </Route>
     <Route path="/education">

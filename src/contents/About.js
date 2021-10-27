@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class About extends Component {
     render() {
         return (
-            <div className="condiv">
+            <div className="condiv about">
             <h1 className="subtopic">About Me</h1>
             <h4>Welcome,</h4>
             <h1>My name is Kimberley Torres</h1>
